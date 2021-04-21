@@ -29,7 +29,7 @@
 
 
                 <Label Content="Inserimento contenitori" Grid.ColumnSpan="2" Padding="50,40,0,0" FontWeight="Bold"></Label>
-                <Label Content="Id contenitore" Grid.Row="1" Padding="50,25,0,0"></Label>
+                <Label Content="Id contenitore" Grid.Row="1" Padding="50,25,0,0" ></Label>
                 <TextBox Grid.Row="2" Grid.Column="0" Width="80" Height="20"></TextBox>
 
                 <Button Content="Crea contenitore" Grid.Column="1" Grid.Row="1" Width="100" Height="30"></Button>
